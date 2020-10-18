@@ -1,0 +1,2 @@
+# irSwap
+An interest rate swap is an agreement between two parties to exchange future interest rate payments over a set period of time. It consists of a series of payment periods, called swaplets. The most popular form of interest rate swaps is the vanilla swaps that involve the exchange of a fixed interest rate for a floating rate, or vice versa. There are two legs associated with each party: a fixed leg and a floating leg. Swaps are OTC derivatives that bear counterparty credit risk beside interest rate risk. 
