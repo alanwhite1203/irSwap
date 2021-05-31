@@ -74,5 +74,9 @@ Fixed Rate	0.0455	Spread	0
 		Index Day Count	dcAct360
 
 
-Reference
-https://finpricing.com/knowledge.html
+References:
+
+https://finpricing.com/lib/EqVariance.html
+
+https://bitbucket.org/cmrm11/irswap/downloads/IrSwap-36.pdf
+
