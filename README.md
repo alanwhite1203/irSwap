@@ -76,7 +76,5 @@ Fixed Rate	0.0455	Spread	0
 
 References:
 
-https://finpricing.com/lib/EqVariance.html
-
-https://bitbucket.org/cmrm11/irswap/downloads/IrSwap-36.pdf
+https://finpricing.com/knowledge.html
 
